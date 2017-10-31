@@ -1,1 +1,1 @@
-# Bayesian-Learning-for-Neural-Network-
+# Bayesian-Learning-for-Neural-Network
